@@ -51,8 +51,8 @@ This is a random password generator to help people create unique new passwords. 
 4. VS Code
 
 ## 5. Installation
-1. Clone the repository: "git clone git@github.com:paigepreziosi/MyFirstPortfolio.git"
-2. Navigate to the project directory: "MyFirstPortfolio"
+1. Clone the repository: "git@github.com:paigepreziosi/GeneratingPasswordsWithJS.git"
+2. Navigate to the project directory: "GeneratingPasswordsWithJS"
 
 ## Credits
 
